@@ -1,0 +1,17 @@
+D:\Users\m.stopka\Desktop\Stopka\Wisielec\LogikaGry\bin\Release\netstandard2.0\LogikaGry.deps.json
+D:\Users\m.stopka\Desktop\Stopka\Wisielec\LogikaGry\bin\Release\netstandard2.0\LogikaGry.dll
+D:\Users\m.stopka\Desktop\Stopka\Wisielec\LogikaGry\bin\Release\netstandard2.0\LogikaGry.pdb
+D:\Users\m.stopka\Desktop\Stopka\Wisielec\LogikaGry\obj\Release\netstandard2.0\LogikaGry.csproj.CoreCompileInputs.cache
+D:\Users\m.stopka\Desktop\Stopka\Wisielec\LogikaGry\obj\Release\netstandard2.0\LogikaGry.AssemblyInfoInputs.cache
+D:\Users\m.stopka\Desktop\Stopka\Wisielec\LogikaGry\obj\Release\netstandard2.0\LogikaGry.AssemblyInfo.cs
+D:\Users\m.stopka\Desktop\Stopka\Wisielec\LogikaGry\obj\Release\netstandard2.0\LogikaGry.dll
+D:\Users\m.stopka\Desktop\Stopka\Wisielec\LogikaGry\obj\Release\netstandard2.0\LogikaGry.pdb
+C:\Users\asus\Desktop\Wisielec\LogikaGry\bin\Release\netstandard2.0\LogikaGry.deps.json
+C:\Users\asus\Desktop\Wisielec\LogikaGry\bin\Release\netstandard2.0\LogikaGry.dll
+C:\Users\asus\Desktop\Wisielec\LogikaGry\bin\Release\netstandard2.0\LogikaGry.pdb
+C:\Users\asus\Desktop\Wisielec\LogikaGry\obj\Release\netstandard2.0\LogikaGry.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\Wisielec\LogikaGry\obj\Release\netstandard2.0\LogikaGry.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\Wisielec\LogikaGry\obj\Release\netstandard2.0\LogikaGry.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\Wisielec\LogikaGry\obj\Release\netstandard2.0\LogikaGry.AssemblyInfo.cs
+C:\Users\asus\Desktop\Wisielec\LogikaGry\obj\Release\netstandard2.0\LogikaGry.dll
+C:\Users\asus\Desktop\Wisielec\LogikaGry\obj\Release\netstandard2.0\LogikaGry.pdb
